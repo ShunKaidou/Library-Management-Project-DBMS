@@ -43,6 +43,7 @@ Something is wrong with the XAMPP installation :-(
 * The username and password is 'admin' and 'admin123' which is already given in the auth table in the database (you can change the values here in phpmyadmin to set your own username and password for logging in)
 
 
+Note: Since this is small project, No Secure Measures have been implemented for protection therefore use at your own risk
 
 # Report
 https://drive.google.com/file/d/1-mNqYwxpmx_2oWmEYqr0WDLjKU9i4BJ-/view?usp=sharing
