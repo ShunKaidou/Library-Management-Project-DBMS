@@ -9,19 +9,19 @@ A small project done as part of DBMS Lab (KTU 2019 Scheme)
 
 * Open localhost/phpmyadmin in your web browser
 
-+ Setup a new User account in 'User Accounts -> New' with all neccessary permissions
+* Setup a new User account in 'User Accounts -> New' with all neccessary permissions
 
-- import the 'library.mysql' file
+* import the 'library.mysql' file
 
-Open config.php and change the corresponding values for '$mysqlusername' and '$mysqlpassword' (Use the user accounts you created earlier)
+* Open config.php and change the corresponding values for '$mysqlusername' and '$mysqlpassword' (Use the user accounts you created earlier)
 
-Move the 'library' folder to /opt/lampp/htdocs/ (or to the folder where the sites are served from based on your web server)
+* Move the 'library' folder to /opt/lampp/htdocs/ (or to the folder where the sites are served from based on your web server)
 
 
 
-Make necessary changes to the index.php file located in /opt/lampp/htdocs/
+* Make necessary changes to the index.php file located in /opt/lampp/htdocs/
 It would look something like this: 
-
+__
 <?php
 	if (!empty($_SERVER['HTTPS']) && ('on' == $_SERVER['HTTPS'])) {
 		$uri = 'https://';
@@ -33,9 +33,11 @@ It would look something like this:
 	exit;
 ?>
 Something is wrong with the XAMPP installation :-(
+__
 
+* Open XAMPP and start apache and mysql Servers
 
-Type localhost in your Browser
+* Type localhost in your Browser
 
 
 
