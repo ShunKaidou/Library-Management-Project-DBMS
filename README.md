@@ -7,7 +7,6 @@ A Basic Library Management System done using PHP and Mysql as part of DBMS LAB i
 
 * Install XAMPP (You can use any Web Server you want)
 
-* Open config.php in 'library' folder and change the corresponding values for '$mysqlusername' and '$mysqlpassword' (Use the user accounts you created earlier)
 
 * Move the 'library' folder to /opt/lampp/htdocs/ (or to the folder where the sites are served from based on your web server)
 
@@ -34,6 +33,9 @@ Something is wrong with the XAMPP installation :-(
 * Type localhost/phpmyadmin in your web browser
 
 * Setup a new User account in 'User Accounts -> New' with all neccessary permissions
+
+* Open config.php in 'library' folder and change the corresponding values for '$mysqlusername' and '$mysqlpassword' (Use the user accounts you created earlier)
+
 
 * Import the 'library.mysql' file
 
