@@ -23,6 +23,7 @@ A small project done as part of DBMS Lab (KTU 2019 Scheme)
 It would look something like this: 
 
 ```php
+	<?php
 	if (!empty($_SERVER['HTTPS']) && ('on' == $_SERVER['HTTPS'])) {
 		$uri = 'https://';
 	} else {
@@ -31,7 +32,7 @@ It would look something like this:
 	$uri .= $_SERVER['HTTP_HOST'];
 	header('Location: '.$uri.'/library/');
 	exit;
-	
+?>
 Something is wrong with the XAMPP installation :-(
 ```
 
