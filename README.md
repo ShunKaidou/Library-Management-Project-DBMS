@@ -1,5 +1,5 @@
 # Library-Management-Project-DBMS
-A small project done as part of DBMS Lab (KTU 2019 Scheme)
+A Basic Library Management System done using PHP and Mysql as part of DBMS LAB in KTU Syllabus (2019 scheme)
 
 
 
