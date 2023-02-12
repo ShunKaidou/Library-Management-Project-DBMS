@@ -32,7 +32,7 @@ Something is wrong with the XAMPP installation :-(
 
 * Type localhost/phpmyadmin in your web browser
 
-* Import the 'library.mysql' file to 'phpmyadmin'
+* Import the 'library.mysql' file to 'phpmyadmin' to add the database 'library'
 
 * Setup a new User account in 'User Accounts -> New' with all neccessary permissions
 
