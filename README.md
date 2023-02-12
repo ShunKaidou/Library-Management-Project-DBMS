@@ -21,8 +21,8 @@ A small project done as part of DBMS Lab (KTU 2019 Scheme)
 
 * Make necessary changes to the index.php file located in /opt/lampp/htdocs/
 It would look something like this: 
-_
-<?php
+
+'<?php
 	if (!empty($_SERVER['HTTPS']) && ('on' == $_SERVER['HTTPS'])) {
 		$uri = 'https://';
 	} else {
@@ -32,8 +32,7 @@ _
 	header('Location: '.$uri.'/library/');
 	exit;
 ?>
-Something is wrong with the XAMPP installation :-(
-_
+Something is wrong with the XAMPP installation :-('
 
 * Open XAMPP and start apache and mysql Servers
 
