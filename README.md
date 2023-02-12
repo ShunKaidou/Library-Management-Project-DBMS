@@ -40,6 +40,7 @@ Something is wrong with the XAMPP installation :-(
 
 * Type localhost in your Browser
 
+* The username and password is 'admin' and 'admin123' which is already given in the auth table in the database (you can change the values here in phpmyadmin to set your own username and password for logging in)
 
 
 
