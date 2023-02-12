@@ -12,7 +12,7 @@ A Basic Library Management System done using PHP and Mysql as part of DBMS LAB i
 
 
 
-* Make necessary changes to the index.php file (not the file in library) located in /opt/lampp/htdocs/ so that localhost is redirected into library rather than to the default website provided by the web server <br> It will look like: 
+* Make necessary changes to the index.php file (not the file in library) located in /opt/lampp/htdocs/ so that localhost is redirected into library rather than to the default website provided by the web server <br> Example: 
 
 ```php
 	<?php
