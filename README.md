@@ -11,7 +11,7 @@ A small project done as part of DBMS Lab (KTU 2019 Scheme)
 
 * Setup a new User account in 'User Accounts -> New' with all neccessary permissions
 
-* import the 'library.mysql' file
+* Import the 'library.mysql' file
 
 * Open config.php and change the corresponding values for '$mysqlusername' and '$mysqlpassword' (Use the user accounts you created earlier)
 
