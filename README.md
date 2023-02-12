@@ -19,8 +19,7 @@ A Basic Library Management System done using PHP and Mysql as part of DBMS LAB i
 
 
 
-* Make necessary changes to the index.php file located in /opt/lampp/htdocs/
-It would look something like this: 
+* Make necessary changes to the index.php file located in /opt/lampp/htdocs/ \n It would look something like this: 
 
 ```php
 	<?php
