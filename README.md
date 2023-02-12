@@ -36,7 +36,7 @@ It would look something like this:
 Something is wrong with the XAMPP installation :-(
 ```
 
-* Open XAMPP and start apache and mysql Servers
+* Open XAMPP and start Apache and Mysql Server
 
 * Type localhost in your Browser
 
