@@ -32,12 +32,14 @@ Something is wrong with the XAMPP installation :-(
 
 * Type localhost/phpmyadmin in your web browser
 
+* Import the 'library.mysql' file to 'phpmyadmin'
+
 * Setup a new User account in 'User Accounts -> New' with all neccessary permissions
 
 * Open config.php in 'library' folder and change the corresponding values for '$mysqlusername' and '$mysqlpassword' (Use the user accounts you created earlier)
 
 
-* Import the 'library.mysql' file
+
 
 * Type localhost in your Browser
 
